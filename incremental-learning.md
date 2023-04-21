@@ -23,7 +23,12 @@
 * (arXiv 2019) Three scenarios for continual learning [[paper](https://arxiv.org/abs/1904.07734)][[code](https://github.com/GMvandeVen/continual-learning)]
 
 
----
+
+## paper
+
+### 2023
+
+* (CVPR 2023) Achieving a Better Stability-Plasticity Trade-off via Auxiliary Networks in Continual Learning (ANCL) [[paper](https://arxiv.org/abs/2303.09483)] [[code](https://github.com/kim-sanghwan/ANCL)]
 
 
 ## w/ Few-shot Learning
@@ -62,8 +67,6 @@
 
 * (WSDM 2022) Graph Few-shot Class-incremental Learning [[paper](https://dl.acm.org/doi/abs/10.1145/3488560.3498455)]
 
-
----
 
 
 ## w/ Self-Supervised Learning
